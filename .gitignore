@@ -6,6 +6,10 @@ bin-release/
 
 # Other files and folders
 .settings/
+node_modules
+package-lock.json
+src/program-rust/target
+
 
 # Executables
 *.swf
